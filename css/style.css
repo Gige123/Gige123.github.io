@@ -1,0 +1,20 @@
+
+
+#logo {
+  height: 45px;
+}
+#topbit {
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
+  color: black;
+  margin-top: 6.5%;
+  background: #2e4bb2;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  border: 5px solid #383838;
+}
+body{
+  background: url(../bgphoto.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
