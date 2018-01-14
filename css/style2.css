@@ -40,5 +40,20 @@
 /* faq answer text style */
 .faqa p{
   font-size: 20pt;
+}
 
+
+
+/* application page stuff */
+#applink {
+  color: #eb0000;
+}
+#appflag {
+  background: url("../commflag.jpg");
+  height: 100%;
+  width: 25%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 5% auto 5% auto;
 }
