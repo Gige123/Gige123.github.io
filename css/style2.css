@@ -1,0 +1,44 @@
+/* faq heading */
+#faqc {
+  text-align: center;
+  color: black;
+  background: #2e4bb2;
+  padding: 2% 5% 2% 5%;
+  margin: 5% 20% 5% 20%;
+  box-shadow: 30px 20px rgba(0,0,0,.7);
+  border-radius: 25px;
+}
+/* faq heading text */
+#faqc h1{
+  font-size: 50pt;
+}
+/* faq diff background */
+#faq1 {
+  width: 100%;
+  height: 90vh;
+  background: #364649;
+  border-top: 10px solid black;
+}
+/* faq question boxes */
+.faqq {
+  text-align: left;
+  padding: 2% 30% 2% 3%;
+  margin: 3% 30% 1.5% 2%;
+  background: #eb0000;
+  border-radius: 10px;
+  box-shadow: 10px 10px rgba(0,0,0,.4)
+}
+/* faq answer box */
+.faqa {
+  text-align: right;
+  padding: 2% 3% 2% 7%;
+  margin: 1.5% 2% 3% 30%;
+  background: #eb0000;
+  border-radius: 10px;
+  box-shadow: 10px 10px rgba(0,0,0,.4)
+}
+/* faq answer text style */
+.faqa p{
+  font-size: 20pt;
+
+}
